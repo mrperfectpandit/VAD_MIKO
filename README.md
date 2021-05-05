@@ -34,7 +34,7 @@ You can prefer the https://github.com/filippogiruzzi/voice_activity_detection gi
 
 # 2. Pytorch pretrained models
 The purpose of this project is to design and implement a real-time Voice Activity Detectio with the help of Pytorch but here dataset used in FLAC audio format the dataset is very huge and take 16 hours to train the model so here i only referring the github repo which include benchmark scripting , evoluition matrix and also comparison with webrtc.
-The webrtc comparion given in [!pytorch_vad.ipnyb](https://github.com/nicklashansen/voice-activity-detection/blob/master/vad.ipynb) Notebook
+The webrtc comparion given in [pytorch_vad.ipnyb](https://github.com/nicklashansen/voice-activity-detection/blob/master/vad.ipynb) Notebook
 
 ### 1.2 Results
 
