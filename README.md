@@ -16,7 +16,7 @@
 The purpose of this project is to design and implement a real-time Voice Activity Detection here i used already labelled data which is in json format or download the original dataset from here https://openslr.org/12/.
 
 The designed solution is based on MFCC feature extraction and a 1D-Resnet model that classifies whether a audio signal is speech or noise.
-i trined it or google golab the original notebook used 2619 itmes but for less time i used 1000 items
+i trined this dataset on google colab , the original notebook used 2619 itmes but for less time i used 1000 items
 
 ### 1.1 Result (my google colab notebook)
 | Model | Train acc. | Val acc. | Test acc. |
