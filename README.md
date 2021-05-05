@@ -9,6 +9,7 @@
 - Please run benchmarking script to evaluate the new VAD module against VAD provided by webrtc
 
 [Benchmark script of pretrained model and evaluation curves and matrix implemented in Tensorflow](https://github.com/filippogiruzzi/voice_activity_detection)
+<br>
 [Benchmark script of pretrained model and evaluation curves and matrix implemented in Pytorch](https://github.com/nicklashansen/voice-activity-detection)
 
 # 1. Tensorflow pretrained models
