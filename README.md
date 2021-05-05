@@ -21,7 +21,7 @@ i trined this dataset on google colab , the original notebook used 2619 itmes bu
 ### 1.1 Result (my google colab notebook)
 | Model | Train acc. | Val acc. | Test acc. |
 | :---: |:---:| :---:| :---: |
-| 1D-Resnet | 94 % | 92 % | 91 % |
+| 1D-Resnet | 96 % | 95 % | 93 % |
 
 ### 1.2 Results (reference github repo)
 
