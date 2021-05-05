@@ -8,9 +8,9 @@
 - Please run benchmarking script to evaluate the VAD after pre-training and demonstrate improvement in accuracy 
 - Please run benchmarking script to evaluate the new VAD module against VAD provided by webrtc
 
-[Benchmark script of pretrained model and evaluation curves and matrix implemented in Tensorflow](https://github.com/filippogiruzzi/voice_activity_detection)
+[Benchmark script of pretrained model, evaluation curves and matrices implemented in Tensorflow](https://github.com/filippogiruzzi/voice_activity_detection)
 <br>
-[Benchmark script of pretrained model and evaluation curves and matrix implemented in Pytorch](https://github.com/nicklashansen/voice-activity-detection)
+[Benchmark script of pretrained model, evaluation curves and matrices implemented in Pytorch](https://github.com/nicklashansen/voice-activity-detection)
 
 # 1. Tensorflow pretrained models
 The purpose of this project is to design and implement a real-time Voice Activity Detection here i used already labelled data which is in json format or download the original dataset from here https://openslr.org/12/.
